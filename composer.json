@@ -1,0 +1,17 @@
+{
+    "name": "xushanchuan/urlscanner",
+    "description": "my test",
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "~5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.3"
+    },
+    "authors": [
+        {
+            "name": "xushanchuan",
+            "email": "635512931@qq.com"
+        }
+    ]
+}
